@@ -1,7 +1,7 @@
 {
-	"name": "Rick And Morty",
+	"name": "Rick And Morty Theme",
 	"version": "1.0",
-	"description": "",
+	"description": "Chrome theme with awesome Rick And Morty Image.",
 	"manifest_version": 2,
 	"theme": {
 		"images": {
